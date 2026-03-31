@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Chris! 👋
 
-<!--
-**chrisozil/chrisozil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Computer Science** student at **UANL** (Monterrey, MX) and a passionate **Fullstack Developer**. I'm currently in my final semester and looking for professional internship opportunities in tech-driven environments.
 
-Here are some ideas to get you started:
+### 🚀 What I'm working on
+- **Barbershop Management SaaS:** A full-featured platform for booking and business management built with **Next.js**, **Tailwind CSS**, and **Supabase**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+* **Languages:** Python, TypeScript, JavaScript (ES6+), HTML5, CSS3.
+* **Frontend:** React, Next.js, Tailwind CSS, Mobile-First Design.
+* **Backend & Database:** Python, Supabase, PostgreSQL.
+* **Tools:** Git, GitHub, Vercel, Supabase Auth.
+
+### 📈 Current Focus
+- Improving my skills in scalable architecture and AI integration.
+- Finalizing my degree in **Ciencias Computacionales**.
+- Enthusiastic about **Open Source** and clean code.
+
+### 📫 Connect with me
+- **LinkedIn:** (linkedin.com/in/christopher-jesus-gutierrez-urbina-8b3241288)
+- **Location:** Monterrey, N.L., México 🇲🇽
+- **GitHub:** [chrisozil](https://github.com/chrisozil)
+
+---
+*“Quality is not an act, it is a habit.”*
