@@ -17,7 +17,7 @@ I am a **Computer Science** student at **UANL** (Monterrey, MX) and a passionate
 - Enthusiastic about **Open Source** and clean code.
 
 ### 📫 Connect with me
-- **LinkedIn:** (linkedin.com/in/christopher-jesus-gutierrez-urbina-8b3241288)
+- **LinkedIn:** [christopher urbina](https://www.linkedin.com/in/christopher-jesus-gutierrez-urbina-8b3241288/?skipRedirect=true)
 - **Location:** Monterrey, N.L., México 🇲🇽
 - **GitHub:** [chrisozil](https://github.com/chrisozil)
 
